@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annisankenobi
-- 👀 I’m interested in ... coding, health + fitness, and digital art (e.g., photography, videography...) :)
+- 👀 I’m interested in ... coding, health + fitness, trading/investing, and digital art (e.g., photography, videography...) :)
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... beginner friendly projects.
 - 📫 How to reach me ... via e-mail!
